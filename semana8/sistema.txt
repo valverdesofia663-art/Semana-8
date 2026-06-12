@@ -1,0 +1,1 @@
+Un sistema operativo es el software que administra los recursos de un computador y permite ejecutar programas. Actúa como intermediario entre el hardware y el usuario. Algunos ejemplos de sistemas operativos son Windows, Linux y macOS. Gracias al sistema operativo, es posible usar aplicaciones, gestionar archivos y controlar dispositivos de manera eficiente.
